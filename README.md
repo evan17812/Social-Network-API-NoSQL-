@@ -2,7 +2,7 @@
 
 ## Description
 
-This Project is made to immitate an online blogpost web application. By using MVC with Mysql, we are able to setup an application where users can create their own accounts to login to the site where they will all be tuned into a general blog post application. This project mainly focuses on routing between handlebar pages as well as authentication for logins to make sure that accounts are created with secruity and users are able to share their comments with one another.
+This project application uses Express.js and MongoDB. This application demonstrates how to use MongoDB in replace of MySQL. With MongoDB you do not need to write sql queries in order to find the data you need. The data is shown through insomnia and also does not need any seeding, thus you will need to edit the data for your own purposes.
 
 ## Repository
 https://github.com/evan17812/Social-Network-API-NoSQL-
